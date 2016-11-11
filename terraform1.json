@@ -1,0 +1,16 @@
+{
+  "resource": {
+    "softlayer_virtual_guest": {
+      "host-test": {
+        "hostname": "host-test",
+        "domain": "sample.com",
+        "os_reference_code": "DEBIAN_7_64",
+        "datacenter": "ams01",
+        "cores": 1,
+        "memory": 1024,
+        "hourly_billing": true,
+        "local_disk": false
+      }
+    }
+  }
+}
